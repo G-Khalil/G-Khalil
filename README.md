@@ -1,53 +1,55 @@
 # 👋 Gustavo Khalil
 
-**`Desenvolvedor Full Stack | Python + Django | Analista de Dados | Visão Computacional`**
+**`Analista de Dados | Python | SQL | Inteligência de Negócios`**
 
-Sou desenvolvedor full stack apaixonado por criar soluções inovadoras com Python e Django. Com experiência sólida em desenvolvimento de sistemas web, análise de dados, integração de inteligência artificial e visão computacional, estou sempre buscando aprimorar minhas habilidades e entregar projetos de alta qualidade.
+Sou analista de dados apaixonado por transformar dados em insights significativos. Com experiência em análise exploratória, limpeza e visualização de dados, utilizo Python, SQL e ferramentas de BI para extrair padrões e gerar recomendações estratégicas que agregam valor aos negócios.
 
-Atualmente trabalhando em projetos de automação, reconhecimento facial, análise de dados com Python e desenvolvimento de aplicações web escaláveis.
+Especializado em automação de processos de dados, dashboards interativos e criação de soluções de análise que impactam decisões estratégicas.
 
 ---
 
 ### 💼 Sobre mim
 
-- 🎯 Desenvolvedor Full Stack especializado em **Python** e **Django**
-- 📈 Analista de Dados com experiência em **análise**, **limpeza** e **visualização** de dados
-- 🤖 Experiência com **Visão Computacional** e **Reconhecimento Facial**
-- 💻 Criador do **controle_obra** - Sistema web com IA para gestão de obras
-- 🚀 Apaixonado por **Clean Code** e **Boas Práticas de Desenvolvimento**
+- 📊 **Analista de Dados** com experiência em análise exploratória, limpeza e visualização de dados
+- 📄 Domínio em **SQL** para consultas complexas e extração de dados
+- 👀 Profundo conhecimento em **Análise Quantitativa** e Ótica Estratégica
+- 💰 Experiência em **E-commerce** e **Dropshipping** com análise de ROI e métricas de negócio
+- 🚀 Apaixonado por **Automação** e **Eficiência Operacional**
 - 📍 Brasília - DF, Brasil
 
 ---
 
-### 🔧 Linguagens e Tecnologias
+### 🔧 Ferramentas e Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🎯 Projetos em Destaque
+### 🎯 Projetos e Experiências
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[controle_obra](https://github.com/G-Khalil/controle_obra)** | Sistema web de controle operacional com **reconhecimento facial automático** para registro de entrada/saída. Implementa IA para detectar e identificar pessoas em tempo real | Python, Django, OpenCV, face_recognition, SQLite, Bootstrap |
+| Área | Descrição |
+|------|-------------|
+| **Análise de Dados** | Análise de comportamento de usuários, identificação de trends e padrões em grandes volumes de dados |
+| **E-commerce & Dropshipping** | Gestão de lojas virtuais (NuvemShop), análise de fornecedores, otimização de margem e ROI |
+| **Automação de Processos** | Scripts Python para automação de tarefas repetitivas e extração de dados |
+| **Visualização de Dados** | Criação de dashboards interativos e relatórios que comunicam insights complexos |
 
 ---
 
-### 🌱 Atualmente aprendendo
+### 🌱 Atualmente estudando
 
-- ✨ Machine Learning avançado com scikit-learn e TensorFlow
-- 🤖 Deep Learning e Redes Neurais
-- 📊 Análise Exploratória de Dados (EDA) avançada
-- 🔐 Segurança em aplicações web e API REST
+- 🤖 Machine Learning e Predição de Dados
+- 📈 Análise Estratégica Avançada
+- 📊 Big Data e Processamento em Escala
+- 📁 SQL Avançado e Otimização de Queries
 
 ---
 
@@ -56,24 +58,24 @@ Atualmente trabalhando em projetos de automação, reconhecimento facial, análi
 - 📧 **Email**: Disponível para oportunidades
 - 🔗 **GitHub**: [@G-Khalil](https://github.com/G-Khalil)
 - 💼 **LinkedIn**: [Gustavo Khalil](https://linkedin.com/in/gustavo-khalil)
-- 📋 **Portfólio**: [Portfólio PDF - Controle Obra](https://github.com/G-Khalil/controle_obra)
+- 📋 **Portfólio & Projetos**: Disponível sob solicitação
 
 ---
 
-### 💪 Áreas de Expertise
+### 💪 Principais Competências
 
 ```
 ┌─────────────────────────────────┐
-│ Backend      │ Frontend         │ Análise de Dados │
+│ Análise de Dados    │ Ferramentas     │
 │─────────────────────────────────│
-│ Python       │ HTML5            │ Pandas          │
-│ Django       │ CSS3             │ NumPy           │
-│ REST APIs    │ JavaScript       │ Matplotlib      │
-│ ORM/SQL      │ Bootstrap        │ Seaborn         │
-│ Visão IA     │ Responsivo       │ Limpeza Dados   │
+│ EDA              │ Python          │
+│ Limpeza Dados    │ SQL             │
+│ Visualização     │ Excel / Power BI │
+│ Insighténcias    │ Pandas / NumPy  │
+│ Relatórios       │ Git / GitHub    │
 └─────────────────────────────────┘
 ```
 
 ---
 
-⭐ **Se você gosta do meu trabalho, considere dar uma estrela nos meus projetos!** ⭐
+⭐ **Interessado em colaborar em projetos de análise de dados? Vamos conversar!** ⭐
