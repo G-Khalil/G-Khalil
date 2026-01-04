@@ -1,16 +1,17 @@
 # 👋 Gustavo Khalil
 
-**`Desenvolvedor Full Stack | Python + Django | Visão Computacional`**
+**`Desenvolvedor Full Stack | Python + Django | Analista de Dados | Visão Computacional`**
 
-Sou desenvolvedor full stack apaixonado por criar soluções inovadoras com Python e Django. Com experiência em desenvolvimento de sistemas web completos, integração de inteligência artificial e visão computacional, estou sempre buscando aprimorar minhas habilidades e entregar projetos de alta qualidade.
+Sou desenvolvedor full stack apaixonado por criar soluções inovadoras com Python e Django. Com experiência sólida em desenvolvimento de sistemas web, análise de dados, integração de inteligência artificial e visão computacional, estou sempre buscando aprimorar minhas habilidades e entregar projetos de alta qualidade.
 
-Atualmente trabalhando em projetos de automação, reconhecimento facial e desenvolvimento de aplicações web escaláveis.
+Atualmente trabalhando em projetos de automação, reconhecimento facial, análise de dados com Python e desenvolvimento de aplicações web escaláveis.
 
 ---
 
 ### 💼 Sobre mim
 
 - 🎯 Desenvolvedor Full Stack especializado em **Python** e **Django**
+- 📈 Analista de Dados com experiência em **análise**, **limpeza** e **visualização** de dados
 - 🤖 Experiência com **Visão Computacional** e **Reconhecimento Facial**
 - 💻 Criador do **controle_obra** - Sistema web com IA para gestão de obras
 - 🚀 Apaixonado por **Clean Code** e **Boas Práticas de Desenvolvimento**
@@ -26,17 +27,10 @@ Atualmente trabalhando em projetos de automação, reconhecimento facial e desen
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Khalil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Khalil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10)
 
 ---
 
@@ -44,17 +38,16 @@ Atualmente trabalhando em projetos de automação, reconhecimento facial e desen
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[controle_obra](https://github.com/G-Khalil/controle_obra)** | Sistema web de controle operacional com **reconhecimento facial automático** para registro de entrada/saída | Python, Django, OpenCV, face_recognition, SQLite |
-| **[VegaGlow](https://github.com/G-Khalil)** | Loja de e-commerce em NuvemShop com gestão de produtos e dropshipping | NuvemShop, Automação, Análise de Dados |
+| **[controle_obra](https://github.com/G-Khalil/controle_obra)** | Sistema web de controle operacional com **reconhecimento facial automático** para registro de entrada/saída. Implementa IA para detectar e identificar pessoas em tempo real | Python, Django, OpenCV, face_recognition, SQLite, Bootstrap |
 
 ---
 
 ### 🌱 Atualmente aprendendo
 
-- ✨ Arquitetura de sistemas em escala
-- 🤖 Modelos avançados de Machine Learning
-- 🔐 Segurança em aplicações web
-- 📱 Desenvolvimento de aplicações mobile com React Native
+- ✨ Machine Learning avançado com scikit-learn e TensorFlow
+- 🤖 Deep Learning e Redes Neurais
+- 📊 Análise Exploratória de Dados (EDA) avançada
+- 🔐 Segurança em aplicações web e API REST
 
 ---
 
@@ -63,7 +56,7 @@ Atualmente trabalhando em projetos de automação, reconhecimento facial e desen
 - 📧 **Email**: Disponível para oportunidades
 - 🔗 **GitHub**: [@G-Khalil](https://github.com/G-Khalil)
 - 💼 **LinkedIn**: [Gustavo Khalil](https://linkedin.com/in/gustavo-khalil)
-- 📋 **Portfólio**: Disponível em PDF no repositório controle_obra
+- 📋 **Portfólio**: [Portfólio PDF - Controle Obra](https://github.com/G-Khalil/controle_obra)
 
 ---
 
@@ -71,13 +64,13 @@ Atualmente trabalhando em projetos de automação, reconhecimento facial e desen
 
 ```
 ┌─────────────────────────────────┐
-│ Backend      │ Frontend         │
+│ Backend      │ Frontend         │ Análise de Dados │
 │─────────────────────────────────│
-│ Python       │ HTML5            │
-│ Django       │ CSS3             │
-│ REST APIs    │ JavaScript       │
-│ ORM/SQL      │ Bootstrap        │
-│ Visão IA     │ Responsivo       │
+│ Python       │ HTML5            │ Pandas          │
+│ Django       │ CSS3             │ NumPy           │
+│ REST APIs    │ JavaScript       │ Matplotlib      │
+│ ORM/SQL      │ Bootstrap        │ Seaborn         │
+│ Visão IA     │ Responsivo       │ Limpeza Dados   │
 └─────────────────────────────────┘
 ```
 
