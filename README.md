@@ -13,7 +13,6 @@ Especializado em automação de processos de dados, dashboards interativos e cri
 - 📊 **Analista de Dados** com experiência em análise exploratória, limpeza e visualização de dados
 - 📄 Domínio em **SQL** para consultas complexas e extração de dados
 - 👀 Profundo conhecimento em **Análise Quantitativa** e Ótica Estratégica
-- 💰 Experiência em **E-commerce** e **Dropshipping** com análise de ROI e métricas de negócio
 - 🚀 Apaixonado por **Automação** e **Eficiência Operacional**
 - 📍 Brasília - DF, Brasil
 
@@ -38,7 +37,6 @@ Especializado em automação de processos de dados, dashboards interativos e cri
 | Área | Descrição |
 |------|-------------|
 | **Análise de Dados** | Análise de comportamento de usuários, identificação de trends e padrões em grandes volumes de dados |
-| **E-commerce & Dropshipping** | Gestão de lojas virtuais (NuvemShop), análise de fornecedores, otimização de margem e ROI |
 | **Automação de Processos** | Scripts Python para automação de tarefas repetitivas e extração de dados |
 | **Visualização de Dados** | Criação de dashboards interativos e relatórios que comunicam insights complexos |
 
@@ -55,7 +53,7 @@ Especializado em automação de processos de dados, dashboards interativos e cri
 
 ### 📬 Entre em contato
 
-- 📧 **Email**: Disponível para oportunidades
+- 📧 **Email**: gustavo.khalil@outlook.com
 - 🔗 **GitHub**: [@G-Khalil](https://github.com/G-Khalil)
 - 💼 **LinkedIn**: [Gustavo Khalil](https://linkedin.com/in/gustavo-khalil)
 - 📋 **Portfólio & Projetos**: Disponível sob solicitação
@@ -77,5 +75,3 @@ Especializado em automação de processos de dados, dashboards interativos e cri
 ```
 
 ---
-
-⭐ **Interessado em colaborar em projetos de análise de dados? Vamos conversar!** ⭐
