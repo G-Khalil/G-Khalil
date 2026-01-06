@@ -1,24 +1,20 @@
 # 👋 Gustavo Khalil
 
-**`Analista de Dados | Python | SQL | Inteligência de Negócios`**
+**`Data Analyst | Python | SQL | Business Intelligence`**
 
-Sou analista de dados apaixonado por transformar dados em insights significativos. Com experiência em análise exploratória, limpeza e visualização de dados, utilizo Python, SQL e ferramentas de BI para extrair padrões e gerar recomendações estratégicas que agregam valor aos negócios.
+I am a passionate data analyst driven by transforming data into meaningful insights. With experience in exploratory analysis, data cleaning, and visualization, I use Python, SQL, and BI tools to extract patterns and generate strategic recommendations that create business value.
 
-Especializado em automação de processos de dados, dashboards interativos e criação de soluções de análise que impactam decisões estratégicas.
+Specialized in data process automation, interactive dashboards, and developing analytics solutions that impact strategic decisions.
 
----
+### 💼 About me
 
-### 💼 Sobre mim
+- 📊 **Data Analyst** with experience in exploratory analysis, data cleaning, and data visualization
+- 📄 Expertise in **SQL** for complex queries and data extraction
+- 👀 Deep knowledge in **Quantitative Analysis** and Strategic Perspective
+- 🚀 Passionate about **Automation** and **Operational Efficiency**
+- 📍 Brasília - DF, Brazil
 
-- 📊 **Analista de Dados** com experiência em análise exploratória, limpeza e visualização de dados
-- 📄 Domínio em **SQL** para consultas complexas e extração de dados
-- 👀 Profundo conhecimento em **Análise Quantitativa** e Ótica Estratégica
-- 🚀 Apaixonado por **Automação** e **Eficiência Operacional**
-- 📍 Brasília - DF, Brasil
-
----
-
-### 🔧 Ferramentas e Tecnologias
+### 🔧 Tools and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,51 +23,41 @@ Especializado em automação de processos de dados, dashboards interativos e cri
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### 🎯 Projects and Experience
 
-### 🎯 Projetos e Experiências
-
-| Área | Descrição |
+| Area | Description |
 |------|-------------|
-| **Análise de Dados** | Análise de comportamento de usuários, identificação de trends e padrões em grandes volumes de dados |
-| **Automação de Processos** | Scripts Python para automação de tarefas repetitivas e extração de dados |
-| **Visualização de Dados** | Criação de dashboards interativos e relatórios que comunicam insights complexos |
+| **Data Analysis** | Analysis of user behavior, identification of trends and patterns in large data volumes |
+| **Process Automation** | Python scripts for automating repetitive tasks and data extraction |
+| **Data Visualization** | Creation of interactive dashboards and reports that communicate complex insights |
 
----
+### 🌱 Currently Learning
 
-### 🌱 Atualmente estudando
+- 🤖 Machine Learning and Data Prediction
+- 📈 Advanced Strategic Analysis
+- 📊 Big Data and Large-Scale Processing
+- 📁 Advanced SQL and Query Optimization
 
-- 🤖 Machine Learning e Predição de Dados
-- 📈 Análise Estratégica Avançada
-- 📊 Big Data e Processamento em Escala
-- 📁 SQL Avançado e Otimização de Queries
+### 📬 Get In Touch
 
----
-
-### 📬 Entre em contato
-
-- 📧 **Email**: gustavo.khalil@outlook.com
+- 📧 **Email**: [gustavo.khalil@outlook.com](mailto:gustavo.khalil@outlook.com)
 - 🔗 **GitHub**: [@G-Khalil](https://github.com/G-Khalil)
 - 💼 **LinkedIn**: [Gustavo Khalil](https://linkedin.com/in/gustavo-khalil)
-- 📋 **Portfólio & Projetos**: Disponível sob solicitação
+- 📋 **Portfolio & Projects**: Available upon request
 
----
-
-### 💪 Principais Competências
+### 💪 Core Competencies
 
 ```
 ┌─────────────────────────────────┐
-│ Análise de Dados    │ Ferramentas     │
-│─────────────────────────────────│
-│ EDA              │ Python          │
-│ Limpeza Dados    │ SQL             │
-│ Visualização     │ Excel / Power BI │
-│ Insighténcias    │ Pandas / NumPy  │
-│ Relatórios       │ Git / GitHub    │
+│ Data Analysis        │ Tools     │
+├─────────────────────────────────┤
+│ EDA                  │ Python    │
+│ Data Cleaning        │ SQL       │
+│ Visualization        │ Excel / Power BI │
+│ Insights             │ Pandas / NumPy │
+│ Reporting            │ Git / GitHub │
 └─────────────────────────────────┘
 ```
-
----
