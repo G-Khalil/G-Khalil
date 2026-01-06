@@ -50,3 +50,12 @@ I focus on data process automation, interactive dashboards, and analytical solut
 
 ### 💪 Core Competencies
 
+| Data Analysis        | Tools              |
+|----------------------|--------------------|
+| Exploratory Analysis | Python             |
+| Data Cleaning        | SQL                |
+| Visualization        | Excel / Power BI   |
+| Insights             | Pandas / NumPy     |
+| Reporting            | Git / GitHub       |
+
+
