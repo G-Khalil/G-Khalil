@@ -1,18 +1,18 @@
 # 👋 Gustavo Khalil
 
-**`Data Analyst | Python | SQL | Business Intelligence`**
+**`Junior Data Analyst | Python | SQL | Business Intelligence`**
 
-I am a passionate data analyst driven by transforming data into meaningful insights. With experience in exploratory analysis, data cleaning, and visualization, I use Python, SQL, and BI tools to extract patterns and generate strategic recommendations that create business value.
+I am a junior data analyst passionate about transforming data into meaningful insights. I work with exploratory data analysis, data cleaning, and visualization, using Python, SQL, and Business Intelligence tools to support data-driven decision-making.
 
-Specialized in data process automation, interactive dashboards, and developing analytics solutions that impact strategic decisions.
+I focus on data process automation, interactive dashboards, and analytical solutions that improve operational efficiency and business understanding.
 
-### 💼 About me
+### 💼 About Me
 
-- 📊 **Data Analyst** with experience in exploratory analysis, data cleaning, and data visualization
-- 📄 Expertise in **SQL** for complex queries and data extraction
-- 👀 Deep knowledge in **Quantitative Analysis** and Strategic Perspective
-- 🚀 Passionate about **Automation** and **Operational Efficiency**
-- 📍 Brasília - DF, Brazil
+- 📊 **Junior Data Analyst** focused on exploratory data analysis (EDA), data cleaning, and visualization  
+- 📄 Strong knowledge of **SQL** for data extraction and query optimization  
+- 📈 Analytical mindset with a **quantitative and business-oriented perspective**  
+- 🚀 Strong interest in **automation** and **operational efficiency**  
+- 📍 Brasília, Brazil — **Open to relocation and remote opportunities**
 
 ### 🔧 Tools and Technologies
 
@@ -26,38 +26,27 @@ Specialized in data process automation, interactive dashboards, and developing a
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🎯 Projects and Experience
+### 🎯 Projects & Experience
 
 | Area | Description |
-|------|-------------|
-| **Data Analysis** | Analysis of user behavior, identification of trends and patterns in large data volumes |
-| **Process Automation** | Python scripts for automating repetitive tasks and data extraction |
-| **Data Visualization** | Creation of interactive dashboards and reports that communicate complex insights |
+|------|------------|
+| **Data Analysis** | Dataset analysis to identify patterns, trends, and actionable insights |
+| **Process Automation** | Python scripts to automate repetitive tasks and streamline data workflows |
+| **Data Visualization** | Interactive dashboards and reports to communicate insights clearly |
 
 ### 🌱 Currently Learning
 
-- 🤖 Machine Learning and Data Prediction
-- 📈 Advanced Strategic Analysis
-- 📊 Big Data and Large-Scale Processing
-- 📁 Advanced SQL and Query Optimization
+- 🤖 Machine Learning fundamentals and data prediction  
+- 📈 Advanced analytical and strategic thinking  
+- 📊 Big Data concepts and large-scale data processing  
+- 📁 Advanced SQL and query optimization  
 
 ### 📬 Get In Touch
 
-- 📧 **Email**: [gustavo.khalil@outlook.com](mailto:gustavo.khalil@outlook.com)
-- 🔗 **GitHub**: [@G-Khalil](https://github.com/G-Khalil)
-- 💼 **LinkedIn**: [Gustavo Khalil](https://linkedin.com/in/gustavo-khalil)
-- 📋 **Portfolio & Projects**: Available upon request
+- 📧 **Email**: [gustavo.khalil@outlook.com](mailto:gustavo.khalil@outlook.com)  
+- 🔗 **GitHub**: [@G-Khalil](https://github.com/G-Khalil)  
+- 💼 **LinkedIn**: [Gustavo Khalil](https://linkedin.com/in/gustavo-khalil)  
+- 📋 **Portfolio & projects available in the repositories below**
 
 ### 💪 Core Competencies
 
-```
-┌─────────────────────────────────┐
-│ Data Analysis        │ Tools     │
-├─────────────────────────────────┤
-│ EDA                  │ Python    │
-│ Data Cleaning        │ SQL       │
-│ Visualization        │ Excel / Power BI │
-│ Insights             │ Pandas / NumPy │
-│ Reporting            │ Git / GitHub │
-└─────────────────────────────────┘
-```
